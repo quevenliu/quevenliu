@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuanfu (Queven) Liu</h1>
+<h1 align="center">Hi 👋, I'm Kuanfu (Queven/Kevin) Liu</h1>
 <h3 align="center">A passionate backend developer. A information management student in National Taiwan University.</h3>
 
 - 📫 How to reach me **liu635588@gmail.com**
