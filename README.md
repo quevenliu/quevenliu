@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Liu</h1>
 <h3 align="center">Transforming visionary ideas into software solutions</h3>
-<h3 align="center">National Taiwan University @ Taipei</h3>
-<h3 align="center">Ex-Mercari SDE Intern @ Tokyo</h3>
+<h3 align="center">Software Engineer @ Tokyo</h3>
+<h3 align="center">Alumni @ National Taiwan University </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
