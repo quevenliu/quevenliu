@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Liu</h1>
-<h3 align="center">Enable business growth by software.</h3>
+<h3 align="center">Enable business growth through software engineering</h3>
 <h3 align="center">Software Engineer @ Tokyo</h3>
 <h3 align="center">Alumni @ National Taiwan University </h3>
 
