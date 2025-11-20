@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Primary language for current job: **Golang**
 - Other languages: JavaScript, TypeScript, PHP, Python, C++
 - Cloud platforms: GCP, AWS
